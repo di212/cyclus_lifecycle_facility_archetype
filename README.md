@@ -1,2 +1,2 @@
-# ORNL_cyclus_2021
+# cyclus_lifecycle_facility_archetype
 Fuel cycle analysis using cyclus (ORNL internship)
